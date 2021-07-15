@@ -1,2 +1,2 @@
 # DrugsClassification-KNN
-Drugs Classification menggunakan KNN Algorithm, K ditentukan dengan mencari nilai optimal
+Drugs Classification On Colab menggunakan KNN Algorithm, K ditentukan dengan mencari nilai optimal
